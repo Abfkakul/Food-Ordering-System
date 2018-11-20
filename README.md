@@ -1,0 +1,1 @@
+This Repo contains Food Ordering System project where a user is prompted screen after signing and login with option to choose from with in all three types of food starter,Main course and dessert. After that bill is generated for the user and all users data is backed up (Orders,Bills,Account info etc). And We have Manager where he can check all the customers activities.

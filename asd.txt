@@ -1,0 +1,12 @@
+Name:OP
+Username:asd
+(123)
+Phone:345
+Address:AAA
+
+Chicken Soup	:2= 160
+
+Seekh Boti	:3= 750
+Chicken Shashlik	:1= 50
+
+Iice Cream	:2= 300
