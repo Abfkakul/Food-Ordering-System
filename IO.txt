@@ -1,5 +1,0 @@
-Name:Sh
-Username:IO
-(123)
-Phone:456
-Address:AAA

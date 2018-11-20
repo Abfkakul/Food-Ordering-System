@@ -1,5 +1,0 @@
-Name:OO
-Username:qwe
-(123)
-Phone:23
-Address:AA

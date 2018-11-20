@@ -1,6 +1,0 @@
-
-ITALIAN SALID	:2= 200
-
-Hot Dog Sausage	:3= 450
-
-Ice Cream	:4= 400

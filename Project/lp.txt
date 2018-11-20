@@ -1,5 +1,0 @@
-Name:op
-Username:lp
-(12)
-Phone:23
-Address:EE
